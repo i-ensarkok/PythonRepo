@@ -4,7 +4,7 @@ from bing_image_downloader import downloader
 
 # Main window specifications
 root = Tk()
-root.geometry("500x240")
+root.geometry("400x120")
 root.title("Download Image")
 root.resizable(0,0)  
 
